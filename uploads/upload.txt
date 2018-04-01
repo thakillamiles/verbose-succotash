@@ -1,0 +1,1 @@
+This folder will collect all of the uploaded files. All files will be able to be accessed through THIS folder.
